@@ -91,12 +91,12 @@ print  """
 \033[1;93m██████╦╝███████╗██║░░██║╚█████╔╝██║░╚█\033[1;93m█╗
 \033[1;93m╚═════╝░╚══════╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚\033[1;93m═╝
 
-\033[1;93m#################$$$$$$$$$$##################
+\033[1;96m#################$$$$$$$$$$##################
 \033[1;93mWhatsapp-Group-https://chat.whatsapp.com/F1SAi3LpBJlDT8NR4rK7ln
 \033[1;93mtelegram-group-https://t.me/HelpEthicalHacking
 \033[1;93mNew-Channel-Asim-Extra
 \033[1;93mChannel-Asim-Pardasi
-\033[1;93m#################$$$$$$$$$$##################
+\033[1;96m#################$$$$$$$$$$##################
 \033[1;92m   Inter Tool User Name And Password©✓
 """
 
@@ -519,7 +519,7 @@ def pilih_super():
 	p.map(main, id)
 	print "\033[1;95m•◈•▬ ▬ ▬•◈\033[1;91mM-Asim\033[1;95m◈•▬ ▬ ▬•◈•"
 	print "  \033[1;91m«---•◈•---Developed By Muhammad Asim--•◈•---»" #Dev:Asim
-	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 ues.py)↩\033[1;97m....'
+	print '\033[1;93m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 Ues.py)↩\033[1;97m....'
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 
