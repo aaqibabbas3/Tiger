@@ -100,8 +100,8 @@ print  """
 \033[1;92m   Inter Tool User Name And Password©✓
 """
 
-CorrectUsername = "Ch"
-CorrectPassword = "cH"
+CorrectUsername = "SA"
+CorrectPassword = "SA"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
